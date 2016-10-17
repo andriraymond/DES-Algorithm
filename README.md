@@ -1,7 +1,7 @@
 # DES-Algorithm
 
-Felix Giovanni Virgo
-14/365960/PA/16167
+* Felix Giovanni Virgo
+* 14/365960/PA/16167
 
 ## Overview
 
@@ -9,6 +9,10 @@ DES (Data Encryption Standard) adalah algoritma cipher blok yang populer karena 
 
 ## Dokumentasi
 
-
+```sh
+int main(){
+...
+}
+```
 
 ## Kontribusi
