@@ -11,7 +11,7 @@ DES (Data Encryption Standard) adalah algoritma cipher blok yang populer karena 
 
 Source code ([DES.cpp](https://github.com/felixgiov/DES-Algorithm/blob/master/DES.cpp)) telah memuat dokumentasi mengenai kode beserta penjelasannya dalam bentuk comment. Untuk melihat dokumentasi kode, dapat dilihat langsung di source code ([DES.cpp](https://github.com/felixgiov/DES-Algorithm/blob/master/DES.cpp)). Semua proses terjadi secara prosedural. Program ini berjalan di `main` function dan memuat beberapa step seperti yang diperlihatkan di bawah. 
 
-```sh
+```cpp
 int main(){
   //Permutasi PC1 pada Key
   //Membuat Key C0 dan D0 hingga C16 dan D16
@@ -26,3 +26,9 @@ int main(){
 ```
 
 ## Kontribusi
+
+Kontribusi saya dalam kelompok ini:
+
+* Mengassist programmer utama (Ferdinand) 
+* Membantu menulis kode `Expansion`, `Inverse IP` dan beberapa baris kode untuk `SBOX`
+* Membantu menjelaskan kepada anggota tim mengenai beberapa proses dalam algoritma DES.
