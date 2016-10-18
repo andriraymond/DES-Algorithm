@@ -29,6 +29,6 @@ int main(){
 
 Kontribusi saya dalam kelompok ini:
 
-* Mengassist programmer utama (Ferdinand) 
+* Mengassist programmer utama (Ferdinand). 
 * Membantu menulis kode `Expansion`, `Inverse IP` dan beberapa baris kode untuk `SBOX`
 * Membantu menjelaskan kepada anggota tim mengenai beberapa proses dalam algoritma DES.
