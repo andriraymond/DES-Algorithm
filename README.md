@@ -3,6 +3,15 @@
 * Felix Giovanni Virgo
 * 14/365960/PA/16167
 
+### Anggota Kelompok
+
+* Ferdinand Winstein
+* Felix Giovanni Virgo
+* Mochamad Gading Prabowo
+* Nikolaus Aldo
+* Vido Valianto
+* Wibisana Wiratama
+
 ## Overview
 
 DES (Data Encryption Standard) adalah algoritma cipher blok yang populer karena dijadikan standard algoritma enkripsi kunci-simetri, meskipun saat ini standard tersebut telah digantikan dengan algoritma yang baru, AES, karena DES sudah dianggap tidak aman lagi. Sebenarnya DES adalah nama standard enkripsi simetri, nama algoritma enkripsinya sendiri adalah DEA (Data Encryption Algorithm). DES termasuk ke dalam sistem kriptografi simetri dan tergolong jenis cipher blok. DES beroperasi pada ukuran blok 64 bit. DES mengenkripsikan 64 bit plainteks menjadi 64 bit cipherteks dengan menggunakan 56 bit kunci internal (internal key). Kunci internal dibangkitkan dari kunci eksternal (external key) yang panjangnya 64 bit.
@@ -25,10 +34,15 @@ int main(){
 }
 ```
 
+### Referensi
+
+http://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm
+
 ## Kontribusi
 
 Kontribusi saya dalam kelompok ini:
 
 * Mengassist programmer utama (Ferdinand). 
-* Membantu menulis kode `Expansion`, `Inverse IP` dan beberapa baris kode untuk `SBOX`
+* Membantu menulis beberapa baris kode `Expansion` dan melanjutkan program dari `SBOX` menjadi `Cipher Text`
 * Membantu menjelaskan kepada anggota tim mengenai beberapa proses dalam algoritma DES.
+* Ikut presentasi di kelas.
